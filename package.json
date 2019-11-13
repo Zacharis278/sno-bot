@@ -1,0 +1,17 @@
+{
+  "name": "sno-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/snowForecast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Hancock",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^4.8.0",
+    "aws-sdk": "^2.386.0",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
